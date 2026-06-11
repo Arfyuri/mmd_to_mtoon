@@ -3,7 +3,7 @@
 A Blender add-on that easily converts MMD (MikuMikuDance) materials to MToon materials with proper texture connections.
 
 **Author:** Arfyuri  
-**Version:** 1.31  
+**Version:** 0.1 
 **Blender Compatibility:** 3.6.0 and above  
 
 ## Features
